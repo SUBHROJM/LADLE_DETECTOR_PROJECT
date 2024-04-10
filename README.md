@@ -13,6 +13,7 @@ FLASHING RASPBERRY PI OS
 
 INSTALLING OPENCV ON RASPBERRY PI--
 <br> Follow this tutorial -https://raspberrypi-guide.github.io/programming/install-opencv
+<br> Install using python3
 
 CONFIGURING A CP+IP CAMERA WITH RASPBERRY PI --
 <br> Follow these steps -- https://youtu.be/xI45fYMFFHE?si=rIDibbg0QoJ6eKGY
